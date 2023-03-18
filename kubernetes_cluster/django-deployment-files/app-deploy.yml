@@ -18,4 +18,4 @@ spec:
     spec:
       containers:
       - name: "django"  # container name 
-        image: "maiempire/django_project-app" # docker image of your django app 
+        image: "virgoinvincible/django_project-app" # docker image of your django app 
