@@ -5,7 +5,7 @@ metadata:
 spec:
   containers:
   - name: django
-    image: "maiempire/django_project-app"
+    image: "virgoinvincible/django_project-app"
     ports:
     - containerPort: 8000
     
