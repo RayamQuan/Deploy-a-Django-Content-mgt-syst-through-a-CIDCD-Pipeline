@@ -7,7 +7,7 @@
 
 # Step 1:
 # This is your Docker ID/path
-dockerpath=maiempire/django_project-app
+dockerpath=virgoinvincible/django_project-app
 
 # Step 2
 # Run the Docker Hub container with kubernetes
